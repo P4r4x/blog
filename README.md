@@ -1,2 +1,2 @@
-# cdn-jsdelivr
+# blog
 cdn-jsdelivr for blog
